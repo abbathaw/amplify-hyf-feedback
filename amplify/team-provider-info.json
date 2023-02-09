@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hyfapp-staging-232916-authRole",
+      "UnauthRoleArn": "arn:aws:iam::161228326047:role/amplify-hyfapp-staging-232916-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::161228326047:role/amplify-hyfapp-staging-232916-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-hyfapp-staging-232916-deployment",
+      "UnauthRoleName": "amplify-hyfapp-staging-232916-unauthRole",
+      "StackName": "amplify-hyfapp-staging-232916",
+      "StackId": "arn:aws:cloudformation:eu-central-1:161228326047:stack/amplify-hyfapp-staging-232916/67857e40-a808-11ed-aacf-0aaaf5995570",
+      "AmplifyAppId": "d2la89kbgfs1cr"
+    }
+  }
+}
